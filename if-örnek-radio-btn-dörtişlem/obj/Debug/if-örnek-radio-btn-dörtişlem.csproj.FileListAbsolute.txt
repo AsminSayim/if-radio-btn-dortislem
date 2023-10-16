@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-örnek-radio-btn-dörtişlem\if-örnek-radio-btn-dörtişlem\bin\Debug\if-örnek-radio-btn-dörtişlem.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-örnek-radio-btn-dörtişlem\if-örnek-radio-btn-dörtişlem\bin\Debug\if-örnek-radio-btn-dörtişlem.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-örnek-radio-btn-dörtişlem\if-örnek-radio-btn-dörtişlem\bin\Debug\if-örnek-radio-btn-dörtişlem.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-örnek-radio-btn-dörtişlem\if-örnek-radio-btn-dörtişlem\obj\Debug\if-örnek-radio-btn-dörtişlem.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-örnek-radio-btn-dörtişlem\if-örnek-radio-btn-dörtişlem\obj\Debug\if-örnek-radio-btn-dörtişlem.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-örnek-radio-btn-dörtişlem\if-örnek-radio-btn-dörtişlem\obj\Debug\if_örnek_radio_btn_dörtişlem.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-örnek-radio-btn-dörtişlem\if-örnek-radio-btn-dörtişlem\obj\Debug\if_örnek_radio_btn_dörtişlem.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-örnek-radio-btn-dörtişlem\if-örnek-radio-btn-dörtişlem\obj\Debug\if-örnek-radio-btn-dörtişlem.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-örnek-radio-btn-dörtişlem\if-örnek-radio-btn-dörtişlem\obj\Debug\if-örnek-radio-btn-dörtişlem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-örnek-radio-btn-dörtişlem\if-örnek-radio-btn-dörtişlem\obj\Debug\if-örnek-radio-btn-dörtişlem.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-örnek-radio-btn-dörtişlem\if-örnek-radio-btn-dörtişlem\obj\Debug\if-örnek-radio-btn-dörtişlem.pdb
